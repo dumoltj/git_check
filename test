@@ -1,0 +1,11 @@
+How do you see the files changed within each commit using GitHub Desktop GUI?
+The history Tab in the current repo
+
+How do you see the contents of what changed within each file for a commit?
+under the history tab you can see everything that has happened with the files
+
+How do you revert (backout) commit?
+get reset is a good way to revert things back 
+
+What does HEAD refer to in the context of git? 
+The head points back to the last comit that was made
